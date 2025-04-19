@@ -18,3 +18,31 @@
 
 
 # 문의 : hms.gymnopedie@gmail.com
+
+
+---
+# Learning_player
+- macOS Audio Player for Language Learning: Playlist, Wheel-based Seek, Section Looping
+-	Supported OS: macOS 14.0+
+
+# Installation Instructions:
+	1.	Download the .dmg file
+	2.	Double-click to open
+	3.	Drag the app into the Applications folder
+	4.	To launch: Right-click > Open (to bypass Gatekeeper warning)
+	5.	Go to System Settings > Privacy & Security > Allow the app
+
+⸻
+
+# Key Features
+	1.	Use the mouse wheel to seek backward/forward by 1, 2, 5, or 10 seconds — ideal for repetitive listening
+	2.	Easy keyboard control
+
+	•	Spacebar: Play/Pause
+	•	b: Set repeat section (Start / End / Reset in order)
+
+	3.	Create and manage playlists — add or remove audio files freely
+
+⸻
+
+# Contact: hms.gymnopedie@gmail.com
