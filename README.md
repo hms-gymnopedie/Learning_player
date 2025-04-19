@@ -20,7 +20,7 @@
 # 문의 : hms.gymnopedie@gmail.com
 
 
-<a href="https://www.buymeacoffee.com/hms.gymnopedie"><img src="https://img.buymeacoffee.com/button-api/?text=커피 한 잔은 큰 힘이 됩니다.&emoji=&slug=hms.gymnopedie&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/hms.gymnopedie"><img src="https://img.buymeacoffee.com/button-api/?text=커피 한잔 기부하세요&emoji=&slug=hms.gymnopedie&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 ---
 # Learning_player
